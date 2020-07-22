@@ -1,8 +1,11 @@
 
+<div style="float:right">
+    <img src="/szh.jpg" width="200">
+</div>
 
 ### Biography
 I am a PHD student in School of Computer Science at Wuhan University. I am a member Multimmedia Analysis & Processing Group, under the supervision of Dr. Jun Chen
-<div align=right>!（./szh.jpg）
+
 
 ### Research Interest
 I work in the field of Computer Vision,  Image processing  image processing Wireless Sensor Network, Intelligent Computing and Big Data. Currently, I focus on the Object tracking and Multiple Object tracking.
