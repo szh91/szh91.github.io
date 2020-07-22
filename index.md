@@ -84,8 +84,8 @@ vol. 17, no. 7, pp. 1501-1509, 2016.
  <span>[4] <b>Z. Sun</b>, H. Wang, Y. Chen, L. Shu, and M. Mukherjee, 
 “Understanding the Impact of Planarized Proximity Graphs on Toxic Gas Boundary Area Detection,” 
 <b><i>IEEE International Conference on Recent Advances in Signal Processing, Telecommunications & Computing</i></b>, 
-vol. 17, no. 7, pp. 1501-1509, 2016. 
-(<b>SCI, Q4, IF=0.786</b>)
+2017，pp. 109-114.
+(<b>(EI, Oral) (Best Paper Award)</b>)
 [<a href= "http://www.airitilibrary.cn/DownloadArticle/DownloadArticleFile?strDocID=16079264-201612-201701100006-201701100006-1501-1509&publishTypeID=P001&pubIntoPublishTypeID=P001">PDF</a>]
 </span>
 </p>
