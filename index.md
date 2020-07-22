@@ -42,11 +42,11 @@ I work in the field of Computer Vision,  Image processing  image processing Wire
 
 <A NAME="Education"><h2>Education</h2></A>
 <ul>
-<li>2017.9-Now &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ph.D in <a href="https://www.whu.edu.cn/">Wuhan University</a></li>. 
+<li>2017.9-Now &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ph.D in <a href="https://www.whu.edu.cn/">Wuhan University</a></li>. 
  
 <Li>2015.5-2017.1 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; M.E. in <a href="http://www.gdupt.edu.cn/">Guangdong University of Petrochemical Technology</a></li>.
  
-<li>2014.9-2017.6 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; M.E. in <a href="https://www.wit.edu.cn/">Wuhan Institute of Technology</a></li>. 
+<li>2014.9-2017.6 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; M.E. in <a href="https://www.wit.edu.cn/">Wuhan Institute of Technology</a></li>. 
  
 <li>2013.9-2017.6 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B.E. in <a href="http://www.witpt.edu.cn/">The College of Post and Telecommunication of WIT</a></li>
 </ul>
