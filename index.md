@@ -3,10 +3,10 @@
     <td width="75%">
       <h1>Zhihong Sun</h1>
       <p><b>PHD</b></p>
-      <p><b>邮箱：zhihong.sun@whu.edu.cn</b></p>
+      <p><b>Email：zhihong.sun@whu.edu.cn</b></p>
     </td>
     <td width="25%">
-      <img src="/szh.jpg" width="25%">      % 插入证件照代码
+      <img src="/szh.jpg" width="50%">      % 插入证件照代码
     </td>
   </tr>
 
