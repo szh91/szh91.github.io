@@ -46,7 +46,7 @@ I work in the field of Computer Vision,  Image processing  image processing Wire
  
 <Li>2015.5-2017.1 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; M.E. in <a href="http://www.gdupt.edu.cn/">Guangdong University of Petrochemical Technology</a></li>.
  
-<li>2014.9-2017.6 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; M.E. in <a href="https://www.wit.edu.cn/">Wuhan Institute of Technology</a></li>. 
+<li>2014.9-2017.6 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; M.E. in <a href="https://www.wit.edu.cn/">Wuhan Institute of Technology</a></li>. 
  
 <li>2013.9-2017.6 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B.E. in <a href="http://www.witpt.edu.cn/">The College of Post and Telecommunication of WIT</a></li>
 </ul>
