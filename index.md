@@ -21,7 +21,7 @@ I work in the field of Computer Vision,  Image processing  image processing Wire
 
 
 ### Publications
-1 Z. Sun, J. Chen, C. Liang, W. R, and M. Mukherjee. "A survey of Multiple Pedestrian Tracking Based on Tracking-by-Detection Framework", IEEE Transactions on Cricuits and System for Video (SCI, Q2, IF=4.133, accept)[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9142255)
+1 Z. Sun, J. Chen, C. Liang, W. R, and M. Mukherjee. "A survey of Multiple Pedestrian Tracking Based on Tracking-by-Detection Framework", IEEE Transactions on Cricuits and System for Video (SCI, Q2, IF=4.133, accept) [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9142255)
 
 2 L. Shu, Y. Chen, Z. Sun, F. Tong, and M. Mukherjee. "Detecting the Dangerous Area of Toxic Gases with Wireless Sensor Networks", IEEE Transactions on Emerging Topics in Computing, vol. 8, no. 1, pp. 137-147, 2020. (SCI, Q2, IF=6.043)
 
