@@ -21,13 +21,11 @@ Location: Undergraduate Building of Wunhan University, Room N608, Wuhan, Hubei, 
 <br />
 <br />
  
-Email: whuqzhang@gmail.com (prior); &nbsp;&nbsp; zhang_qiang@whu.edu.cn <br />
-[<a href="https://scholar.google.com/citations?user=Hb6OKF0AAAAJ&hl=zh-CN" target="_blank">Google Scholar</a>]
-[<a href="https://github.com/qzhang95" target="_blank">GitHub</a>]
-[<a href="https://www.researchgate.net/profile/Qiang_Zhang204" target="_blank">ResearchGate</a>]
-[<a href="https://orcid.org/0000-0002-7116-9327" target="_blank">ORCID</a>]
-[<a href="https://www.zhihu.com/people/qzhang95" target="_blank"><font style="font-family:Microsoft YaHei">知乎</font></a>]
-[<a href="https://www.escience.cn/people/qz/index.html" target="_blank"><font style="font-family:Microsoft YaHei">中文主页</font></a>]</p>
+Email: zhihong.sun@whu.edu.cn (prior); &nbsp;&nbsp; zzhihong.sun2016Woutlook.com <br />
+[<a href="https://github.com/szh91" target="_blank">GitHub</a>]
+[<a href="https://www.linkedin.com/in/zhihong-sun-1a9172136/" target="_blank">LinkedIn</a>]
+[<a href="https://www.zhihu.com/people/sun-zhi-hong-49" target="_blank"><font style="font-family:Microsoft YaHei">知乎</font></a>]
+[<a href="http://www.scholat.com/sunzhihong" target="_blank"><font style="font-family:Microsoft YaHei">学者网</font></a>]</p>
 </td></tr></table>
 
 ### Biography
