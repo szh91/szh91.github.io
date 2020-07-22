@@ -4,7 +4,7 @@
 
 <table class="imgtable"><tr><td>
 <a href="./"><img src="/szh.jpg" alt="" height="215px" /></a>&nbsp;</td>
-<td align="left"><p><a href="./"><font size="4">Qiang Zhang (</font><font size="4"; font style="font-family:Microsoft YaHei">张 强</font><font size="4">)</font></a><br />
+<td align="left"><p><a href="./"><font size="4">Zhihong Sun (</font><font size="4"; font style="font-family:Microsoft YaHei">张 强</font><font size="4">)</font></a><br />
 <i> Ph.D Cadidate </i>
 <br /><br />
 <a href="http://www.lmars.whu.edu.cn/">State Key Laboratory of Information Engineering, Survey Mapping and Remote Sensing (LIESMARS)</a><br />
@@ -30,10 +30,6 @@ Email: whuqzhang@gmail.com (prior); &nbsp;&nbsp; zhang_qiang@whu.edu.cn <br />
 [<a href="https://www.zhihu.com/people/qzhang95" target="_blank"><font style="font-family:Microsoft YaHei">知乎</font></a>]
 [<a href="https://www.escience.cn/people/qz/index.html" target="_blank"><font style="font-family:Microsoft YaHei">中文主页</font></a>]</p>
 </td></tr></table>
-
-<div style="float:topright">
-    <img src="/szh.jpg" width="200">
-</div>
 
 ### Biography
 I am a PHD student in School of Computer Science at [Wuhan University](https://www.whu.edu.cn/). I am a member [Multimmedia Analysis & Processing Group](mmap.whu.edu.cn), under the supervision of Dr. Jun Chen
