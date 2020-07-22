@@ -4,7 +4,7 @@
 
 <table class="imgtable"><tr><td>
 <a href="./"><img src="/szh.jpg" alt="" height="215px" /></a>&nbsp;</td>
-<td align="left"><p><a href="./"><font size="4">Zhihong Sun (</font><font size="4"; font style="font-family:Microsoft YaHei">张 强</font><font size="4">)</font></a><br />
+<td align="left"><p><a href="./"><font size="4">Zhihong Sun (</font><font size="4"; font style="font-family:Microsoft YaHei">孙志宏</font><font size="4">)</font></a><br />
 <i> Ph.D Cadidate </i>
 <br /><br />
 <a href="http://www.lmars.whu.edu.cn/">State Key Laboratory of Information Engineering, Survey Mapping and Remote Sensing (LIESMARS)</a><br />
