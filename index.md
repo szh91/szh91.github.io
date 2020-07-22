@@ -1,9 +1,3 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/szh91/szh91.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ### Biography
 I am a PHD student in School of Computer Science at Wuhan University. I am a member Multimmedia Analysis & Processing Group, under the supervision of Dr. Jun Chen
 
