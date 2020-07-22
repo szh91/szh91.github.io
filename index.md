@@ -12,7 +12,7 @@
 <br />
 Location: Undergraduate Building of Wunhan University, Room N608, Wuhan, Hubei, China<br />
 <class="staffshortcut">
- <A HREF="#Biography">Research Interest</A> |
+ <A HREF="#Biography">Biography</A> |
  <A HREF="#Interest">Research Interest</A> | 
  <A HREF="#Education">Education</A> | 
  <A HREF="#Publications">Publications</A> | 
