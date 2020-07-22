@@ -10,7 +10,7 @@
 <a href="http://multimedia.whu.edu.cn/">National Engineering Research Center for Multimedia Software (NERCMS)</a><br />
 <a href="https://www.whu.edu.cn/">Wuhan University</a><br />
 <br />
-Location: Building 39-Room 105, Luoyu Road #129, Hongshan District, Wuhan, Hubei, China<br />
+Location: Undergraduate Building of Wunhan University, Room N608, Wuhan, Hubei, China<br />
 <class="staffshortcut">
  <A HREF="#News">News</A> | 
  <A HREF="#Interest">Research Interest</A> | 
