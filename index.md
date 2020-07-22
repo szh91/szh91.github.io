@@ -1,5 +1,5 @@
 
-<div style="float:right">
+<div style="float:topright">
     <img src="/szh.jpg" width="200">
 </div>
 
