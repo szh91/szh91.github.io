@@ -33,9 +33,25 @@ Email: whuqzhang@gmail.com (prior); &nbsp;&nbsp; zhang_qiang@whu.edu.cn <br />
 ### Biography
 I am a PHD student in School of Computer Science at [Wuhan University](https://www.whu.edu.cn/). I am a member [National Engineering Research Center for Multimedia Software](http://multimedia.whu.edu.cn/), under the supervision of Dr. Jun Chen
 
+<A NAME="Interest"><h2>Research Interest</h2></A>
+I work in the field of Computer Vision,  Image processing  image processing Wireless Sensor Network, Intelligent Computing and Big Data. Currently, I focus on the following research topics:
+<ul>
+<li>Object tracking</li>
+<Li>Multiple Object tracking</Li>
+</ul>
 
-### Research Interest
-I work in the field of Computer Vision,  Image processing  image processing Wireless Sensor Network, Intelligent Computing and Big Data. Currently, I focus on the Object tracking and Multiple Object tracking.
+<A NAME="Education"><h2>Education</h2></A>
+<ul>
+<li>2017.9-Now &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ph.D in <a href="https://www.whu.edu.cn/">Wuhan University</a></li>. 
+ 
+<Li>2015.5-2017.1 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; M.E. in <a href="http://www.gdupt.edu.cn/">Guangdong University of Petrochemical Technology</a></li>.
+ 
+<li>2014.9-2017.6 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; M.E. in <a href="https://www.wit.edu.cn/">Wuhan Institute of Technology</a></li>. 
+ 
+<li>2013.9-2017.6 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B.E. in <a href="http://www.witpt.edu.cn/">The College of Post and Telecommunication of WIT</a></li>
+</ul>
+
+
 
 ### Education
 2017-Now, Ph.D in [Wuhan University](https://www.whu.edu.cn/), Wuhan, China
