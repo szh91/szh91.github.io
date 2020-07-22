@@ -86,7 +86,7 @@ vol. 17, no. 7, pp. 1501-1509, 2016.
 <b><i>IEEE International Conference on Recent Advances in Signal Processing, Telecommunications & Computing</i></b>, 
 2017，pp. 109-114.
 (<b>(EI, Oral) (Best Paper Award)</b>)
-[<a href= "http://www.airitilibrary.cn/DownloadArticle/DownloadArticleFile?strDocID=16079264-201612-201701100006-201701100006-1501-1509&publishTypeID=P001&pubIntoPublishTypeID=P001">PDF</a>]
+[<a href= "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7849805&tag=1">PDF</a>]
 </span>
 </p>
 
