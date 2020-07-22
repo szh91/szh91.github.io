@@ -7,7 +7,7 @@
 <td align="left"><p><a href="./"><font size="4">Zhihong Sun (</font><font size="4"; font style="font-family:Microsoft YaHei">孙志宏</font><font size="4">)</font></a><br />
 <i> Ph.D Cadidate </i>
 <br /><br />
-<a href="http://www.lmars.whu.edu.cn/">State Key Laboratory of Information Engineering, Survey Mapping and Remote Sensing (LIESMARS)</a><br />
+<a href="http://multimedia.whu.edu.cn/">National Engineering Research Center for Multimedia Software (NERCMS)</a><br />
 <a href="https://www.whu.edu.cn/">Wuhan University</a><br />
 <br />
 Location: Building 39-Room 105, Luoyu Road #129, Hongshan District, Wuhan, Hubei, China<br />
@@ -32,7 +32,7 @@ Email: whuqzhang@gmail.com (prior); &nbsp;&nbsp; zhang_qiang@whu.edu.cn <br />
 </td></tr></table>
 
 ### Biography
-I am a PHD student in School of Computer Science at [Wuhan University](https://www.whu.edu.cn/). I am a member [Multimmedia Analysis & Processing Group](mmap.whu.edu.cn), under the supervision of Dr. Jun Chen
+I am a PHD student in School of Computer Science at [Wuhan University](https://www.whu.edu.cn/). I am a member [National Engineering Research Center for Multimedia Software](http://multimedia.whu.edu.cn/), under the supervision of Dr. Jun Chen
 
 
 ### Research Interest
