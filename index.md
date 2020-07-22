@@ -25,7 +25,7 @@ I work in the field of Computer Vision,  Image processing  image processing Wire
 
 2 L. Shu, Y. Chen, Z. Sun, F. Tong, and M. Mukherjee. "Detecting the Dangerous Area of Toxic Gases with Wireless Sensor Networks", IEEE Transactions on Emerging Topics in Computing, vol. 8, no. 1, pp. 137-147, 2020. (SCI, Q2, IF=6.043)
 
-3 H. Wang, Z. Sun, S. Chen, "A Novel Real-Time Method for Moving Vehicle Detection", Journal of Internet Technology, vol. 17, no. 7, pp. 1501-1509, 2016. (SCI, Q4, IF=0.786)  [[pdf]](http://www.airitilibrary.cn/DownloadArticle/DownloadArticleFile?strDocID=16079264-201612-201701100006-201701100006-1501-1509&publishTypeID=P001&pubIntoPublishTypeID=P001&DownloadCode=EyskzSnCpuj4jEkwROtj/vh6MKXzS5n3xdF6oYWDjhc01MArgq7QQw==&dataBrowser=%E3%80%8Achrome%20%3A%20true%20version%20%3A%2063.0.3239.132%20webkit%20%3A%20true%20%E3%80%8BbtnYes17%3A17%3A19&actionUrl=http:://www.airitilibrary.cn/Publication/alPublicationJournal&ValidateCode=34376)
+3 H. Wang, Z. Sun, S. Chen, "A Novel Real-Time Method for Moving Vehicle Detection", Journal of Internet Technology, vol. 17, no. 7, pp. 1501-1509, 2016. (SCI, Q4, IF=0.786)  [[pdf]](http://www.airitilibrary.cn/DownloadArticle/DownloadArticleFile?strDocID=16079264-201612-201701100006-201701100006-1501-1509&publishTypeID=P001&pubIntoPublishTypeID=P001)
 
 4 Z. Sun, H. Wang, Y. Chen, L. Shu, and M. Mukherjee. "Understanding the Impact of Planarized Proximity Graphs on Toxic Gas Boundary Area Detection", IEEE International Conference on Recent Advances in Signal Processing, Telecommunications & Computing, 2017, pp. 109-114. (EI, Oral) (Best Paper Award) [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7849805）
 
