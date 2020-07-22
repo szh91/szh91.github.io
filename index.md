@@ -6,7 +6,7 @@
       <p><b>邮箱：zhihong.sun@whu.edu.cn</b></p>
     </td>
     <td width="25%">
-      <img src="/szh.jpg" width="100%">      % 插入证件照代码
+      <img src="/szh.jpg" width="25%">      % 插入证件照代码
     </td>
   </tr>
 
