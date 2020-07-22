@@ -4,7 +4,7 @@
 </div>
 
 ### Biography
-I am a PHD student in School of Computer Science at Wuhan University. I am a member [Multimmedia Analysis & Processing Group](mmap.whu.edu.cn/), under the supervision of Dr. Jun Chen
+I am a PHD student in School of Computer Science at Wuhan University. I am a member [Multimmedia Analysis & Processing Group](http://home.ustc.edu.cn/~pjer1316/), under the supervision of Dr. Jun Chen
 
 
 ### Research Interest
