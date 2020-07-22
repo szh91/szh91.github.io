@@ -1,3 +1,16 @@
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>Zhihong Sun</h1>
+      <p><b>PHD</b></p>
+      <p><b>邮箱：zhihong.sun@whu.edu.cn</b></p>
+    </td>
+    <td width="25%">
+      <img src="/szh.jpg" width="100%">      % 插入证件照代码
+    </td>
+  </tr>
+
+
 ### Biography
 I am a PHD student in School of Computer Science at Wuhan University. I am a member Multimmedia Analysis & Processing Group, under the supervision of Dr. Jun Chen
 ![图片描述](图片链接)
