@@ -11,13 +11,13 @@ I am a PHD student in School of Computer Science at [Wuhan University](https://w
 I work in the field of Computer Vision,  Image processing  image processing Wireless Sensor Network, Intelligent Computing and Big Data. Currently, I focus on the Object tracking and Multiple Object tracking.
 
 ### Education
-2017-Now, Ph.D in Wuhan University, Wuhan, China
+2017-Now, Ph.D in [Wuhan University](https://www.whu.edu.cn/), Wuhan, China
 
-2015-2017 M.E in Guangdong University of Petrochemical Technology, Maoming, China
+2015-2017 M.E in [Guangdong University of Petrochemical Technology](http://www.gdupt.edu.cn/), Maoming, China
 
-2014-2017 M.E in Wuhan Institute of Technology, Wuhan, China
+2014-2017 M.E in [Wuhan Institute of Technology](www.wit.edu.cn), Wuhan, China
 
-2010-2014 B.E in The College of Post and Telecommunication of WIT, Wuhan, China
+2010-2014 B.E in [The College of Post and Telecommunication of WIT](http://www.witpt.edu.cn/), Wuhan, China
 
 
 ### Publications
