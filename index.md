@@ -27,7 +27,7 @@ I work in the field of Computer Vision,  Image processing  image processing Wire
 
 3 H. Wang, Z. Sun, S. Chen, "A Novel Real-Time Method for Moving Vehicle Detection", Journal of Internet Technology, vol. 17, no. 7, pp. 1501-1509, 2016. (SCI, Q4, IF=0.786)  [[pdf]](http://www.airitilibrary.cn/DownloadArticle/DownloadArticleFile?strDocID=16079264-201612-201701100006-201701100006-1501-1509&publishTypeID=P001&pubIntoPublishTypeID=P001)
 
-4 Z. Sun, H. Wang, Y. Chen, L. Shu, and M. Mukherjee. "Understanding the Impact of Planarized Proximity Graphs on Toxic Gas Boundary Area Detection", IEEE International Conference on Recent Advances in Signal Processing, Telecommunications & Computing, 2017, pp. 109-114. (EI, Oral) (Best Paper Award) [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7849805）
+4 Z. Sun, H. Wang, Y. Chen, L. Shu, and M. Mukherjee. "Understanding the Impact of Planarized Proximity Graphs on Toxic Gas Boundary Area Detection", IEEE International Conference on Recent Advances in Signal Processing, Telecommunications & Computing, 2017, pp. 109-114. (EI, Oral) (Best Paper Award) [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7849805)
 
 5 X. R, L. S, M. Mhkherjee, Y. Wu, Y. Chen and Z. Sun, "Impact of Irregular Radio and Faulty Nodes on Localization in Industrial WSNs", International Conference on Wireless Internet, 2016， pp. 36-48. (EI, Oral) (Best Paper Award) [[pdf]](https://link.springer.com/content/pdf/10.1007%2F978-3-319-72998-5_5.pdf) 
 
