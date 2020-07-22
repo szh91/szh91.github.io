@@ -6,7 +6,7 @@
       <p><b>Email：zhihong.sun@whu.edu.cn</b></p>
     </td>
     <td width="25%">
-      <img src="/szh.jpg" width="50%">      % 插入证件照代码
+      <img src="/szh.jpg" width="50%">      
     </td>
   </tr>
 
