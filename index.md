@@ -15,8 +15,6 @@ Location: Undergraduate Building of Wunhan University, Room N608, Wuhan, Hubei, 
  <A HREF="#Interest">Research Interest</A> | 
  <A HREF="#Education">Education</A> | 
  <A HREF="#Publications">Publications</A> | 
- <A HREF="#Conferences">Conferences</A> | 
- <A HREF="#Services">Services</A> | 
  <A HREF="#Awards">Awards</A>
 <br />
 <br />
