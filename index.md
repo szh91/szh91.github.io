@@ -101,7 +101,6 @@ vol. 17, no. 7, pp. 1501-1509, 2016.
 </p>
 
 <A NAME="Awards"><h2>Awards</h2></A>
-<font size="3"> 
 <ul>
 <li>Excellent Master's Degree Thesis，Wuhan Institute of Technology， 2017</li>
 <li>Outstanding youth(Nominate), Wuhan Institute of Technology， 2017</li>
@@ -112,7 +111,6 @@ vol. 17, no. 7, pp. 1501-1509, 2016.
 <li>Second Prize of Academic Scholarship， Wuhan Institute of Technology, 2015</li>
  <li>First Prize of Academic Scholarship， Wuhan Institute of Technology，2014</li>
 </ul>
-</font>
 
 <A NAME="Reviewer"><h2>Reviewer</h2></A>
 <ul>
