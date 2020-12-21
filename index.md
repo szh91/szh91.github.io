@@ -27,7 +27,7 @@ Email: zhihong.sun@whu.edu.cn (prior); &nbsp;&nbsp; zzhihong.sun2016Woutlook.com
 [<a href="http://www.scholat.com/sunzhihong" target="_blank"><font style="font-family:Microsoft YaHei">学者网</font></a>]</p>
 </td></tr></table>
 
-### Biography
+<A NAME="Biography"><h2>Education</h2></A>
 I am a PHD student in School of Computer Science at [Wuhan University](https://www.whu.edu.cn/). I am a member [National Engineering Research Center for Multimedia Software](http://multimedia.whu.edu.cn/), under the supervision of Dr. Jun Chen
 
 <A NAME="Interest"><h2>Research Interest</h2></A>
