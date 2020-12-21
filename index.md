@@ -99,6 +99,7 @@ vol. 17, no. 7, pp. 1501-1509, 2016.
 [<a href= "https://link.springer.com/content/pdf/10.1007%2F978-3-319-72998-5_5.pdf">PDF</a>]
 </span>
 </p>
+</ul>
 
 <A NAME="Awards"><h2>Awards</h2></A>
 <ul>
