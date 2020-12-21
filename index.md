@@ -4,7 +4,7 @@
 
 <table class="imgtable"><tr><td>
 <a href="./"><img src="/szh.jpg" alt="" height="215px" /></a>&nbsp;</td>
-<td align="left"><p><a href="./"><font size="4">Zhihong Sun (</font><font size="4"; font style="font-family:Microsoft YaHei">孙志宏</font><font size="4">)</font></a><br />
+<td align="left"><p><a href="./"><font size="4">Zhihong Sun (孙志宏)</font></a><br />
 <i> Ph.D Cadidate </i>
 <br /><br />
 <a href="http://multimedia.whu.edu.cn/">National Engineering Research Center for Multimedia Software (NERCMS)</a><br />
@@ -64,7 +64,7 @@ I work in the field of Computer Vision,  Image processing  image processing Wire
  <span>[2] L. Shu, Y. Chen, <b>Z. Sun</b>, F. Tong, and M. Mukherjee, 
 “Detecting the Dangerous Area of Toxic Gases with Wireless Sensor Networks,” 
 <b><i>IEEE Transactions on Emerging Topics in Computing</i></b>, 
-ol. 8, no. 1, pp. 137-147, 2020. 
+vol. 8, no. 1, pp. 137-147, 2020. 
 (<b>SCI, Q2, IF=6.043</b>)
 [<a href= "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7917279">PDF</a>]
 </span>
