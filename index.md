@@ -118,6 +118,10 @@ vol. 17, no. 7, pp. 1501-1509, 2016.
 <ul>
 <li>IEEE Access</li>
 <li>International Journal of Intelligent Information Systems</li>
- <li>IEEE International Conference on Industrial Technology (ICIT)</li>
+<li>IEEE Global Communications Conference</li>
+<li>IEEE International Conference on Industrial Technology (ICIT)</li>
 <li>International Conference on Acoustics, Speech and Signal Processing (ICASSP)</li>
+<li>Annual International Conference on Mobile Computing and Networking</li>
+<li>Annual Conference of the IEEE Industrial Electronics Society</li>
+<li>
 </ul>
