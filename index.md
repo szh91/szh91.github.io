@@ -80,6 +80,17 @@ vol. 17, no. 7, pp. 1501-1509, 2016.
 </span>
 </p>
 
+ 
+  <p style="text-indent: -1.6rem;margin-left: 0rem;">
+ <span>[4] <b>Z. Sun</b>, Z. Sun, J. Chen, M. Mukherjee C. Liang, W. R, Y. Yu and D. Zhang , 
+“Long-short Term Prediction for Occlusion Multiple Object Tracking,” 
+<b><i>IEEE Global Communications Conference</i></b>, 
+2017，pp. 109-114.
+(<b>(EI, Oral) </b>)
+[<a href= "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7849805&tag=1">PDF</a>]
+</span>
+</p>
+ 
  <p style="text-indent: -1.6rem;margin-left: 0rem;">
  <span>[4] <b>Z. Sun</b>, H. Wang, Y. Chen, L. Shu, and M. Mukherjee, 
 “Understanding the Impact of Planarized Proximity Graphs on Toxic Gas Boundary Area Detection,” 
