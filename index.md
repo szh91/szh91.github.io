@@ -28,7 +28,7 @@ Email: zhihong.sun@whu.edu.cn (prior); &nbsp;&nbsp; zhihong.sun2016Woutlook.com 
 </td></tr></table>
 
 <A NAME="Biography"><h2>Biography</h2></A>
-I am a PHD student in School of Computer Science at [<a href="https://www.whu.edu.cn/">Wuhan University</a>]<br />. I am a member [National Engineering Research Center for Multimedia Software](http://multimedia.whu.edu.cn/), under the supervision of Dr. Jun Chen
+I am a PHD student in School of Computer Science at <a href="https://www.whu.edu.cn/">Wuhan University</a><br />. I am a member <a href="http://multimedia.whu.edu.cn/">National Engineering Research Center for Multimedia Software (NERCMS)</a><br />, under the supervision of Dr. Jun Chen
 
 <A NAME="Interest"><h2>Research Interest</h2></A>
 I work in the field of Computer Vision,  Image processing  image processing Wireless Sensor Network, Intelligent Computing and Big Data. Currently, I focus on the following research topics:
