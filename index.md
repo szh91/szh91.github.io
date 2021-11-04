@@ -175,6 +175,5 @@ vol. 17, no. 7, pp. 1501-1509, 2016.
 <li>Annual Conference of the IEEE Industrial Electronics Society</li>
 </ul>
  
- <a href="https://en.whu.edu.cn/">
 
-<img border="0" src="/wudalogo.png ></a>
+<a href="https://en.whu.edu.cn/"><img src="/wudalogo.png" width="20x" height="20x" border="边框"></a>
