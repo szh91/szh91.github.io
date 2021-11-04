@@ -35,7 +35,7 @@ I am a PHD student in School of Computer Science at <a href="https://www.whu.edu
 
 <A NAME="Interest"><h2>Research Interest</h2></A>
 <ul>
-<li> Computer Vision: Multiple Object tracking、Detection、Person Re-identification</li>
+<li> Computer Vision: Multiple object tracking、Pedestrian detection、Person re-identification</li>
 <li> Wireless Sensor Network：Toxic gas detection、Localization</li>
 <li> Big Data: Crowdsourcing</li>
 </ul>
