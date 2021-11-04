@@ -4,7 +4,7 @@
 
 <table class="imgtable"><tr><td>
 <a href="./"><img src="/new.jpg" alt="" height="250x" width="220x"  /></a></td>
-<td align="left"><p><a href="./"><font size="4">Zhihong Sun (孙志宏)</font></a><br />
+<td align="left"><p><a href="./"><font size="4">Zhihong Sun (孙志宏)</font></a>&nbsp;
 <i> Ph.D Candidate </i>
 <br /><br />
 <a href="http://cs.whu.edu.cn/aspx/enmain/">School of Computer Science</a>,
