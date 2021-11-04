@@ -16,11 +16,8 @@
  <A HREF="#Education">Education</A> | 
  <A HREF="#Recent Updates">Recent Updates</A> | 
  <A HREF="#Publications">Publications</A> | 
- <A HREF="#Awards">Awards</A>
- 
+ <A HREF="#Awards">Awards</A> 
 <br />
-<br />
- 
  <b>Email</b>: <u>zhihong.sun@whu.edu.cn</u>  (prior); <br />
 [<a href="https://github.com/szh91" target="_blank">GitHub</a>]
 [<a href="https://www.linkedin.com/in/zhihong-sun-1a9172136/" target="_blank">LinkedIn</a>]
