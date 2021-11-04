@@ -117,7 +117,7 @@ vol. 17, no. 7, pp. 1501-1509, 2016.
 </p>
  
    <p style="text-indent: -1.6rem;margin-left: 0rem;">
- <span>[7] <b>Z. Sun</b>, D. Zhang, Y. Zhang, Z. Sun and M. Mukherjee,
+ <span>[7] D. Zhang, Y. Zhang, <b>Z. Sun</b> and M. Mukherjee,
 “One-Class Support Vector Machine with Particle Swarm Optimization for Geo-Acoustic Anomaly Detection,” 
 <b><i>International Conference on Mobility, Sensing and Networking</i></b>, 
 2021，pp. 109-114.
