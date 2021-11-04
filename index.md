@@ -20,7 +20,7 @@ Location: Undergraduate Building of Wunhan University, Room N608, Wuhan, Hubei, 
 <br />
 <br />
  
-Email: zhihong.sun@whu.edu.cn (prior); &nbsp;&nbsp; zhihong.sun2016Woutlook.com <br />
+Email: zhihong.sun@whu.edu.cn (prior); &nbsp;&nbsp; zhihong.sun2016@outlook.com <br />
 [<a href="https://github.com/szh91" target="_blank">GitHub</a>]
 [<a href="https://www.linkedin.com/in/zhihong-sun-1a9172136/" target="_blank">LinkedIn</a>]
 [<a href="https://www.zhihu.com/people/sun-zhi-hong-49" target="_blank"><font style="font-family:Microsoft YaHei">知乎</font></a>]
