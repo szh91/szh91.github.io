@@ -8,7 +8,7 @@
 <i> Ph.D Cadidate </i>
 <br /><br />
 <a href="http://multimedia.whu.edu.cn/">National Engineering Research Center for Multimedia Software (NERCMS)</a><br />
-<a href="https://www.whu.edu.cn/">Wuhan University</a><br />
+[<a href="https://www.whu.edu.cn/">Wuhan University</a>]<br />
 <br />
 Location: Undergraduate Building of Wunhan University, Room N608, Wuhan, Hubei, China<br />
 <class="staffshortcut">
