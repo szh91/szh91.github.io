@@ -3,7 +3,7 @@
 <div class="container"> 
 
 <table class="imgtable"><tr><td>
-<a href="./"><img src="/new.jpg" alt="" height="350x" width="270x"  /></a></td>
+<a href="./"><img src="/new.jpg" alt="" height="250x" width="220x"  /></a></td>
 <td align="left"><p><a href="./"><font size="4">Zhihong Sun (孙志宏)</font></a><br />
 <i> Ph.D Candidate </i>
 <br /><br />
@@ -21,7 +21,7 @@
 <br />
 <br />
  
-Email: <u>zhihong.sun@whu.edu.cn</u>  (prior); &nbsp;&nbsp; <u>zhihong.sun2016@outlook.com <br /></u>
+ <b>Email</b>: <u>zhihong.sun@whu.edu.cn</u>  (prior); 
 [<a href="https://github.com/szh91" target="_blank">GitHub</a>]
 [<a href="https://www.linkedin.com/in/zhihong-sun-1a9172136/" target="_blank">LinkedIn</a>]
 [<a href="https://www.zhihu.com/people/sun-zhi-hong-49" target="_blank"><font style="font-family:Microsoft YaHei">知乎</font></a>]
