@@ -54,7 +54,7 @@ I work in the field of Computer Vision,  Image processing, Video analysis, Wirel
 <ul>
  <li><b>06/08/2021</b> One paper has been accepted in  <b>IEEE GLOBECOM 2021</b> </li>
 <Li><b>15/09/2021</b> One paper has been accepted in  <b>IEEE MSN 2021</b></Li>
-<Li><b>30/0910/2021</b> One paper has been accepted in  <b>Neurocomputing 2021</b></Li>
+<Li><b>30/10/2021</b> One paper has been accepted in  <b>Neurocomputing 2021</b></Li>
 </ul>
  
  
