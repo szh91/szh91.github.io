@@ -183,4 +183,4 @@ vol. 17, no. 7, pp. 1501-1509, 2016.
 <a href="https://www.easycounter.com/">
 <img src="https://www.easycounter.com/counter.php?sunzhihong"
 border="0" alt="Free Web Counters"></a>
-<br><a href="https://www.easycounter.com/">Hit Counter</a>
+<br><a href="https://www.easycounter.com/">Visitors</a>
