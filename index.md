@@ -177,4 +177,4 @@ vol. 17, no. 7, pp. 1501-1509, 2016.
  
  <a href="https://en.whu.edu.cn/">
 
-<img border="0" src="/wudalogo.png /></a>
+<img border="0" src="/wudalogo.png ></a>
