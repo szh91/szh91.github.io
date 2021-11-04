@@ -69,7 +69,7 @@ I work in the field of Computer Vision,  Image processing  image processing Wire
  
 
 <p style="text-indent: -1.6rem;margin-left: 0rem;">
-<span>[1] <b>Z. Sun</b>, J. Chen, C. Liang, W. R, and M. Mukherjee, 
+<span>[2] <b>Z. Sun</b>, J. Chen, C. Liang, W. R, and M. Mukherjee, 
 “Online Multiple Object Tracking Based on Fusing Global and Partial Features,” 
 <b><i>Neurocomputing </i></b>, 
 (<b>SCI, Q2, IF=5.719, accept</b>)
@@ -78,7 +78,7 @@ I work in the field of Computer Vision,  Image processing  image processing Wire
 </p>
  
  <p style="text-indent: -1.6rem;margin-left: 0rem;">
- <span>[2] L. Shu, Y. Chen, <b>Z. Sun</b>, F. Tong, and M. Mukherjee, 
+ <span>[3] L. Shu, Y. Chen, <b>Z. Sun</b>, F. Tong, and M. Mukherjee, 
 “Detecting the Dangerous Area of Toxic Gases with Wireless Sensor Networks,” 
 <b><i>IEEE Transactions on Emerging Topics in Computing</i></b>, 
 vol. 8, no. 1, pp. 137-147, 2020. 
@@ -88,7 +88,7 @@ vol. 8, no. 1, pp. 137-147, 2020.
 </p>
 
  <p style="text-indent: -1.6rem;margin-left: 0rem;">
- <span>[3] H. Wang, <b>Z. Sun</b>, S. Chen, 
+ <span>[4] H. Wang, <b>Z. Sun</b>, S. Chen, 
 “A Novel Real-Time Method for Moving Vehicle Detection,” 
 <b><i>Journal of Internet Technology</i></b>, 
 vol. 17, no. 7, pp. 1501-1509, 2016. 
@@ -99,7 +99,7 @@ vol. 17, no. 7, pp. 1501-1509, 2016.
 
  
  <p style="text-indent: -1.6rem;margin-left: 0rem;">
- <span>[4] <b>Z. Sun</b>, J. Chen, M. Mukherjee C. Liang, W. R, Y. Yu and D. Zhang , 
+ <span>[5] <b>Z. Sun</b>, J. Chen, M. Mukherjee C. Liang, W. R, Y. Yu and D. Zhang , 
 “Long-short Term Prediction for Occlusion Multiple Object Tracking,” 
 <b><i>IEEE Global Communications Conference</i></b>, 
 2021，pp. 109-114.
@@ -108,7 +108,7 @@ vol. 17, no. 7, pp. 1501-1509, 2016.
 </p>
  
   <p style="text-indent: -1.6rem;margin-left: 0rem;">
- <span>[4] <b>Z. Sun</b>, J. Chen, M. Mukherjee C. Liang, W. R, Y. Yu and D. Zhang , 
+ <span>[6] <b>Z. Sun</b>, J. Chen, M. Mukherjee, C. Liang, W. R, Y. Yu and D. Zhang , 
 “An Improved Online Multiple Pedestrian Tracking Based on Head and Body Detection,” 
 <b><i>International Conference on Mobility, Sensing and Networking</i></b>, 
 2021，pp. 109-114.
@@ -116,8 +116,17 @@ vol. 17, no. 7, pp. 1501-1509, 2016.
 </span>
 </p>
  
+   <p style="text-indent: -1.6rem;margin-left: 0rem;">
+ <span>[7] <b>Z. Sun</b>, D. Zhang, Y. Zhang, Z. Sun and M. Mukherjee,
+“One-Class Support Vector Machine with Particle Swarm Optimization for Geo-Acoustic Anomaly Detection,” 
+<b><i>International Conference on Mobility, Sensing and Networking</i></b>, 
+2021，pp. 109-114.
+(<b>(EI, Oral) </b>)
+</span>
+</p>
+ 
  <p style="text-indent: -1.6rem;margin-left: 0rem;">
- <span>[4] <b>Z. Sun</b>, H. Wang, Y. Chen, L. Shu, and M. Mukherjee, 
+ <span>[8] <b>Z. Sun</b>, H. Wang, Y. Chen, L. Shu, and M. Mukherjee, 
 “Understanding the Impact of Planarized Proximity Graphs on Toxic Gas Boundary Area Detection,” 
 <b><i>IEEE International Conference on Recent Advances in Signal Processing, Telecommunications & Computing</i></b>, 
 2017，pp. 109-114.
@@ -127,7 +136,7 @@ vol. 17, no. 7, pp. 1501-1509, 2016.
 </p>
 
  <p style="text-indent: -1.6rem;margin-left: 0rem;">
- <span>[5] X. R, L. S, M. Mhkherjee, Y. Wu, Y. Chen and <b>Z. Sun</b>, 
+ <span>[9] X. R, L. S, M. Mhkherjee, Y. Wu, Y. Chen and <b>Z. Sun</b>, 
 “Impact of Irregular Radio and Faulty Nodes on Localization in Industrial WSNs,” 
 <b><i>International Conference on Wireless Internet</i></b>, 
 2016， pp. 36-48.
