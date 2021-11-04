@@ -19,7 +19,9 @@
  <A HREF="#Awards">Awards</A> 
 <br />
  
- <b>Email</b>: <u>zhihong.sun@whu.edu.cn</u>  (prior); <br />
+ <b>Email</b>: <u>zhihong.sun@whu.edu.cn</u>  (prior);
+ <br />
+ 
 [<a href="https://github.com/szh91" target="_blank">GitHub</a>]
 [<a href="https://www.linkedin.com/in/zhihong-sun-1a9172136/" target="_blank">LinkedIn</a>]
 [<a href="https://www.zhihu.com/people/sun-zhi-hong-49" target="_blank"><font style="font-family:Microsoft YaHei">知乎</font></a>]
