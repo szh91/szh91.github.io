@@ -82,7 +82,7 @@ I work in the field of Computer Vision,  Image processing  image processing Wire
 “Detecting the Dangerous Area of Toxic Gases with Wireless Sensor Networks,” 
 <b><i>IEEE Transactions on Emerging Topics in Computing</i></b>, 
 vol. 8, no. 1, pp. 137-147, 2020. 
-(<b>SCI, Q2, IF=7.691/b>)
+(<b>SCI, Q2, IF=7.691</b>)
 [<a href= "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7917279">PDF</a>]
 </span>
 </p>
@@ -148,6 +148,8 @@ vol. 17, no. 7, pp. 1501-1509, 2016.
 
 <A NAME="Awards"><h2>Awards</h2></A>
 <ul>
+<li>Student Travel Grant, IEEE GLOBECOM conference， 2021 </li>
+<li>Distinguished Alumni Awards, The College of Post and Telecommunication of WIT，2020</li>
 <li>Excellent Master's Degree Thesis，Wuhan Institute of Technology， 2017</li>
 <li>Outstanding youth(Nominate), Wuhan Institute of Technology， 2017</li>
 <li>Best paper award, IEEE SigTelCom, 2017</li>
