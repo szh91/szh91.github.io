@@ -37,7 +37,7 @@ I am a PHD student in School of Computer Science at <a href="https://www.whu.edu
 <ul>
 <li> Computer Vision: Multiple Object tracking、Detection、Person Re-identification</li>
 <li> Wireless Sensor Network：Toxic gas detection、Localization</li>
-<li>O Big Data: Crowdsourcing</li>
+<li> Big Data: Crowdsourcing</li>
 </ul>
 
 <A NAME="Education"><h2>Education</h2></A>
