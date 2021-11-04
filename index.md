@@ -11,14 +11,14 @@
 <a href="https://www.whu.edu.cn/">Wuhan University</a><br />
 <br />
 Location: Undergraduate Building of Wunhan University, Room N608, Wuhan, Hubei, China<br />
-<class="staffshortcut">
+
  <A HREF="#Biography">Biography</A> |
  <A HREF="#Interest">Research Interest</A> | 
  <A HREF="#Education">Education</A> | 
  <A HREF="#Recent Updates">Recent Updates</A> | 
  <A HREF="#Publications">Publications</A> | 
  <A HREF="#Awards">Awards</A>
- </class>
+ 
 <br />
 <br />
  
