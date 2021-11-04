@@ -174,3 +174,7 @@ vol. 17, no. 7, pp. 1501-1509, 2016.
 <li>Annual International Conference on Mobile Computing and Networking</li>
 <li>Annual Conference of the IEEE Industrial Electronics Society</li>
 </ul>
+ 
+ <a href="https://en.whu.edu.cn/">
+
+<img border="0" src="/i/eg_buttonnext.gif" /></a>
