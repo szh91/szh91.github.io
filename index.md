@@ -62,6 +62,7 @@ I work in the field of Computer Vision,  Image processing  image processing Wire
 <span>[1] <b>Z. Sun</b>, J. Chen, C. Liang, W. R, and M. Mukherjee, 
 “A survey of Multiple Pedestrian Tracking Based on Tracking-by-Detection Framework,” 
 <b><i>IEEE Transactions on Cricuits and System for Video </i></b>, 
+ vol. 31, no. 5, pp. 1819-1833, 2021. 
 (<b>SCI, Q2, IF=4.133, accept</b>)
 [<a href= "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9142255">PDF</a>]
 </span>
