@@ -82,7 +82,7 @@ I work in the field of Computer Vision,  Image processing  image processing Wire
 “Detecting the Dangerous Area of Toxic Gases with Wireless Sensor Networks,” 
 <b><i>IEEE Transactions on Emerging Topics in Computing</i></b>, 
 vol. 8, no. 1, pp. 137-147, 2020. 
-(<b>SCI, Q2, IF=6.043</b>)
+(<b>SCI, Q2, IF=7.691/b>)
 [<a href= "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7917279">PDF</a>]
 </span>
 </p>
@@ -92,7 +92,7 @@ vol. 8, no. 1, pp. 137-147, 2020.
 “A Novel Real-Time Method for Moving Vehicle Detection,” 
 <b><i>Journal of Internet Technology</i></b>, 
 vol. 17, no. 7, pp. 1501-1509, 2016. 
-(<b>SCI, Q4, IF=0.786</b>)
+(<b>SCI, Q4, IF=1.005</b>)
 [<a href= "http://www.airitilibrary.cn/DownloadArticle/DownloadArticleFile?strDocID=16079264-201612-201701100006-201701100006-1501-1509&publishTypeID=P001&pubIntoPublishTypeID=P001">PDF</a>]
 </span>
 </p>
