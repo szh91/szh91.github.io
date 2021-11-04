@@ -19,7 +19,7 @@
  <A HREF="#Awards">Awards</A> 
 <br />
  
- <b>Email</b>: <u>zhihong.sun@whu.edu.cn</u>  (prior);
+ <b>Email</b>: <u>zhihong.sun@whu.edu.cn</u>;
  <br />
  
 [<a href="https://github.com/szh91" target="_blank">GitHub</a>]
