@@ -20,7 +20,7 @@
 <br /> <br />
 
  
- <b>Email</b>: <u>zhihong.sun@whu.edu.cn</u>;
+ <b>Email</b>: <u>zhihong.sun@whu.edu.cn</u>
  <br /><br />
   
  
