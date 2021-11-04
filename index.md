@@ -67,6 +67,16 @@ I work in the field of Computer Vision,  Image processing  image processing Wire
 </span>
 </p>
  
+
+<p style="text-indent: -1.6rem;margin-left: 0rem;">
+<span>[1] <b>Z. Sun</b>, J. Chen, C. Liang, W. R, and M. Mukherjee, 
+“Online Multiple Object Tracking Based on Fusing Global and Partial Features,” 
+<b><i>Neurocomputing </i></b>, 
+(<b>SCI, Q2, IF=5.719, accept</b>)
+[<a href= "https://pdf.sciencedirectassets.com/271597/AIP/1-s2.0-S0925231221016647/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEK%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQCybNB%2FCZ6tiD7ABJLpwx5rVzXErQUyr6UaNF3lK1AZ%2BAIgZQdahQQak6rukW%2B8LKxwLbRcSV6bx3W1oV3h7JjCNIYq%2BgMIWBAEGgwwNTkwMDM1NDY4NjUiDCfElcueRSttcofekirXA7hveizRZXrlwdoC3RqR6QAPGHDrs35wdNnVnv2SMMKxzu9a1Rw9NgS3pVlzQwzvQL2%2FnLCzbC%2BlR2n%2BQgkiJv1E0lGQMQm3CS7Rp7bcmTLrobr%2BWgKtDn4m%2Bugo7Zx16ostRyaKQ7916dWd7RGcyqJtAao5uQdNg0%2B8UeC10XddJSuHsvYuwgGVwNwD8bESMXySZrHknQ8CNTYYiYq9ybrWnFdkrFtRYIyRrpjF2%2FHnfXXr%2BLZjC760ZsDT0WlRu7lYpPA6tzaYRpytxAuKnMlFj7P2vSXFGJp%2BwfKqiM7UL2TB3TmPWMvwQAQmGoIihUkFaC1gewOmW9HDy3sEB4vV2aOA4M1WhJPQf0x1fnQhzpygxvBO1qt6Bo7%2F2pvtq32dbxmLM0IFg91PsMUEyLYVXwpemU5AIsSl8jRthrTjk7uN7R91JkOvFCU7u1HlF5ZKAN%2Fu34JDHwjUGhiRoisJL4iQN0ZlRDzgkhGXxSook1gkRzXbDLInrGewsen%2BDOOJgiX%2BOD0bBfZ7legsbQTJkaTi%2B5OxSHTSCUG3vKG259cXfPVHflhUMFkSQPFE6FhyDfdkTYREAeI3D%2BzJlqKCl5tIFI%2BAdj7%2BGpAr4T7SXUZHEZhy%2FDDJhI6MBjqlAWnSGCDytzjjTY7Iw%2FQO2zDT6KIe4RCEEq4VMm81752FgZCd911WbqqVDzAQvLgNJzvM4vKvPMcSkjIdQfPEoEHcSaflznTe6HyDQ4KfscSVGDzt%2B%2BjjIvvBTtioXwGsQcPhD3bSZQ5%2BoJsapX6MnHJ5NK%2FAHjuQ5pP5wOmEPCIFJmTdtgK2EdG5BOQdxTrVbmJNtGaqychdA8pxcwFr0IPcsB9MDw%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20211104T081044Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYXVRVA5YO%2F20211104%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=1aa2186d81e611d0019bcf1cab77987bdde1f8ed630b3f83c25f4aef1ab94a33&hash=d3ef9d54e222a0006cb7306fe26ed1d67d7493711e19dbf5754d83157b19cd09&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0925231221016647&tid=spdf-65646ca9-1e74-4cfa-b1b2-22d13b324cd7&sid=722c35585fcfc54ec5884cb5d79bc322e7a8gxrqb&type=client">PDF</a>]
+</span>
+</p>
+ 
  <p style="text-indent: -1.6rem;margin-left: 0rem;">
  <span>[2] L. Shu, Y. Chen, <b>Z. Sun</b>, F. Tong, and M. Mukherjee, 
 “Detecting the Dangerous Area of Toxic Gases with Wireless Sensor Networks,” 
@@ -88,13 +98,21 @@ vol. 17, no. 7, pp. 1501-1509, 2016.
 </p>
 
  
-  <p style="text-indent: -1.6rem;margin-left: 0rem;">
+ <p style="text-indent: -1.6rem;margin-left: 0rem;">
  <span>[4] <b>Z. Sun</b>, J. Chen, M. Mukherjee C. Liang, W. R, Y. Yu and D. Zhang , 
 “Long-short Term Prediction for Occlusion Multiple Object Tracking,” 
 <b><i>IEEE Global Communications Conference</i></b>, 
 2021，pp. 109-114.
 (<b>(EI, Oral) </b>)
-[<a href= "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7849805&tag=1">PDF</a>]
+</span>
+</p>
+ 
+  <p style="text-indent: -1.6rem;margin-left: 0rem;">
+ <span>[4] <b>Z. Sun</b>, J. Chen, M. Mukherjee C. Liang, W. R, Y. Yu and D. Zhang , 
+“An Improved Online Multiple Pedestrian Tracking Based on Head and Body Detection,” 
+<b><i>International Conference on Mobility, Sensing and Networking</i></b>, 
+2021，pp. 109-114.
+(<b>(EI, Oral) </b>)
 </span>
 </p>
  
