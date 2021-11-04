@@ -7,7 +7,7 @@
 <td align="left"><p><a href="./"><font size="4">Zhihong Sun (孙志宏)</font></a><br />
 <i> Ph.D Candidate </i>
 <br /><br />
-<a href="http://multimedia.whu.edu.cn/">National Engineering Research Center for Multimedia Software (NERCMS)</a><br />,
+<a href="http://multimedia.whu.edu.cn/">National Engineering Research Center for Multimedia Software (NERCMS)</a>,
 <a href="https://www.whu.edu.cn/">Wuhan University</a><br />
 <br />
 
