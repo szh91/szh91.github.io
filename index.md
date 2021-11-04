@@ -51,8 +51,9 @@ I work in the field of Computer Vision,  Image processing  image processing Wire
 <A NAME="Recent Updates"><h2>Recent Updates</h2></A>
 I work in the field of Computer Vision,  Image processing  image processing Wireless Sensor Network, Intelligent Computing and Big Data. Currently, I focus on the following research topics:
 <ul>
-<li>06/08/2021 One paper has been accepted in  <b>IEEE GLOBECOM 2021</b> </li>
-<Li>Multiple Object tracking</Li>
+<li><b>06/08/2021</b> One paper has been accepted in  <b>IEEE GLOBECOM 2021</b> </li>
+<Li><b>15/09/2021</b> One paper has been accepted in  <b>IEEE MSN 2021</b></Li>
+<Li><b>30/0910/2021</b> One paper has been accepted in  <b>Neurocomputing 2021</b></Li>
 </ul>
  
  
