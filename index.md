@@ -7,8 +7,8 @@
 <td align="left"><p><a href="./"><font size="4">Zhihong Sun (孙志宏)</font></a><br />
 <i> Ph.D Cadidate </i>
 <br /><br />
-<a href="http://multimedia.whu.edu.cn/">National Engineering Research Center for Multimedia Software (NERCMS)</a><br />
-[<a href="https://www.whu.edu.cn/">Wuhan University</a>]<br />
+<a href="http://multimedia.whu.edu.cn/">National Engineering Research Center for Multimedia Software (NERCMS)</a><br />,
+<a href="https://www.whu.edu.cn/">Wuhan University</a>]<br />
 <br />
 Location: Undergraduate Building of Wunhan University, Room N608, Wuhan, Hubei, China<br />
 <class="staffshortcut">
