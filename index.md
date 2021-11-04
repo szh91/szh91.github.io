@@ -66,7 +66,7 @@ I work in the field of Computer Vision,  Image processing, Video analysis, Wirel
 “A survey of Multiple Pedestrian Tracking Based on Tracking-by-Detection Framework,” 
 <b><i>IEEE Transactions on Cricuits and System for Video </i></b>, 
  vol. 31, no. 5, pp. 1819-1833, 2021. 
-(<b>SCI, Q2, IF=4.685</b>)
+(<b>SCI, Q1, IF=4.685</b>)
 [<a href= "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9142255">PDF</a>]
 </span>
 </p>
