@@ -3,7 +3,7 @@
 <div class="container"> 
 
 <table class="imgtable"><tr><td>
-<a href="./"><img src="/new.jpg" alt="" height="320x" width="320x"  /></a></td>
+<a href="./"><img src="/new.jpg" alt="" height="320x" width="340x"  /></a></td>
 <td align="left"><p><a href="./"><font size="4">Zhihong Sun (孙志宏)</font></a>&nbsp;
 <i> Ph.D Candidate </i>
 <br /><br />
