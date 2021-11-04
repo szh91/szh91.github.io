@@ -20,7 +20,7 @@ Location: Undergraduate Building of Wunhan University, Room N608, Wuhan, Hubei, 
 <br />
 <br />
  
-Email: zhihong.sun@whu.edu.cn (prior); &nbsp;&nbsp; zzhihong.sun2016Woutlook.com <br />
+Email: zhihong.sun@whu.edu.cn (prior); &nbsp;&nbsp; zhihong.sun2016Woutlook.com <br />
 [<a href="https://github.com/szh91" target="_blank">GitHub</a>]
 [<a href="https://www.linkedin.com/in/zhihong-sun-1a9172136/" target="_blank">LinkedIn</a>]
 [<a href="https://www.zhihu.com/people/sun-zhi-hong-49" target="_blank"><font style="font-family:Microsoft YaHei">知乎</font></a>]
@@ -28,7 +28,7 @@ Email: zhihong.sun@whu.edu.cn (prior); &nbsp;&nbsp; zzhihong.sun2016Woutlook.com
 </td></tr></table>
 
 <A NAME="Biography"><h2>Biography</h2></A>
-I am a PHD student in School of Computer Science at [Wuhan University](https://www.whu.edu.cn/). I am a member [National Engineering Research Center for Multimedia Software](http://multimedia.whu.edu.cn/), under the supervision of Dr. Jun Chen
+I am a PHD student in School of Computer Science at [<a href="https://www.whu.edu.cn/">Wuhan University</a>]<br />. I am a member [National Engineering Research Center for Multimedia Software](http://multimedia.whu.edu.cn/), under the supervision of Dr. Jun Chen
 
 <A NAME="Interest"><h2>Research Interest</h2></A>
 I work in the field of Computer Vision,  Image processing  image processing Wireless Sensor Network, Intelligent Computing and Big Data. Currently, I focus on the following research topics:
