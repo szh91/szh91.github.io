@@ -48,7 +48,7 @@ I work in the field of Computer Vision,  Image processing  image processing Wire
 <li>2013.9-2017.6 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B.E. in <a href="http://www.witpt.edu.cn/">The College of Post and Telecommunication of WIT</a></li>
 </ul>
 
-<A NAME="Recent Updates"><h2>Research Interest</h2></A>
+<A NAME="Recent Updates"><h2>Recent Updates</h2></A>
 I work in the field of Computer Vision,  Image processing  image processing Wireless Sensor Network, Intelligent Computing and Big Data. Currently, I focus on the following research topics:
 <ul>
 <li>Object tracking</li>
