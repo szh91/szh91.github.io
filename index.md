@@ -1,4 +1,4 @@
-![image](https://img.shields.io/badge/api-%2-blue.svg)
+![image](https://img.shields.io/badge/api-%2B-blue.svg)
 
 <a id="home" class="anchor"></a>
 <div id="container"> 
