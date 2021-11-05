@@ -21,7 +21,7 @@
 
  
  <b>Email</b>: <u>zhihong.sun@whu.edu.cn</u><br /><br />
- <a href="mailto:zhihong.sun@whu.edu.cn?subject=ccc&body=xxx%0d%0ayyy">aaa</a>
+ <a href="mailto:zhihong.sun@whu.edu.cn?subject=ccc&body=xxx%0d%0ayyy">zhihong.sun@whu.edu.cn</a>
  <br /><br />
   
  
