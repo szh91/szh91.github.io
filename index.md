@@ -1,4 +1,4 @@
-<p><a class="label label-danger">New</a>
+<p><a class="label label-danger">New</a></p>
 
 <a id="home" class="anchor"></a>
 <div id="container"> 
