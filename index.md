@@ -29,8 +29,8 @@
 [<a href="https://github.com/szh91" target="_blank">GitHub</a>]
 [<a href="https://www.linkedin.com/in/zhihong-sun-1a9172136/" target="_blank">LinkedIn</a>]
 [<a href="https://www.zhihu.com/people/sun-zhi-hong-49" target="_blank"><font style="font-family:Microsoft YaHei">知乎</font></a>]
-[<a href="http://www.scholat.com/sunzhihong" target="_blank"><font style="font-family:Microsoft YaHei">学者网</font></a>]
-[<a href="https://scholar.google.com/citations?user=ob-hCkgAAAAJ&hl=zh-CN1" target="_blank">Google Scholar</a>]</p>
+[<a href="http://www.scholat.com/sunzhihong" target="_blank"><font style="font-family:Microsoft YaHei">学者网</font></a>]</p>
+[<a href="https://scholar.google.com/citations?user=ob-hCkgAAAAJ&hl=zh-CN1" target="_blank">Google Scholar</a>]
 </td></tr></table>
 
 <A NAME="Biography"><h2>Biography</h2></A>
