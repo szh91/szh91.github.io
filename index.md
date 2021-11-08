@@ -33,7 +33,7 @@
 </td></tr></table>
 
 <A NAME="Biography"><h2>Biography</h2></A>
-I am a PHD student in School of Computer Science at <a href="https://www.whu.edu.cn/">Wuhan University</a>. I am a member <a href="http://multimedia.whu.edu.cn/">National Engineering Research Center for Multimedia Software (NERCMS)</a>, under the supervision of Dr. Jun Chen
+I am a PHD student in School of Computer Science at <a href="https://www.whu.edu.cn/">Wuhan University</a>. I am a member of <a href="http://multimedia.whu.edu.cn/">National Engineering Research Center for Multimedia Software (NERCMS)</a>, under the supervision of Dr. Jun Chen
 
 <A NAME="Interest"><h2>Research Interest</h2></A>
 <ul>
