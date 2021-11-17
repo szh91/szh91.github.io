@@ -56,6 +56,7 @@ I am a PHD student in School of Computer Science at <a href="https://www.whu.edu
 
 <A NAME="Recent Updates"><h2>Recent Updates</h2></A>
 <ul>
+<li><<font color="#FF0000" News size="6" /font>
 <Li>17/11/2021 Invited to give an academic report at <a href="https://csai.wtu.edu.cn/info/1146/1929.htm"> Wuhan Textile University   </a></Li>
 <Li>16/11/2021Won the title of Excellent Graduate Student at <a href="http://cs.whu.edu.cn/news_show.aspx?id=1615">  Wuhan University  </a></Li>
 <li>06/08/2021 One paper has been accepted in  <a href="https://globecom2021.ieee-globecom.org/?_ga=2.131782856.653367360.1636077973-1461646020.1626138744"> IEEE GLOBECOM 2021 </a> </li>
