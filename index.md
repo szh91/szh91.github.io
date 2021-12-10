@@ -59,9 +59,9 @@ I am a PHD student in School of Computer Science at <a href="https://www.whu.edu
 <Li>30/11/2021 Invited to chair the session MSN-9: Human Activity Recognition at  <a href="https://ieee-msn.org/2021/files/booklet.pdf"> 2021 IEEE MSN conference </a></Li>
 <Li>17/11/2021 Invited to give an academic report at <a href="https://csai.wtu.edu.cn/info/1146/1929.htm"> Wuhan Textile University   </a></Li>
 <Li>16/11/2021Won the title of Excellent Graduate Student at <a href="http://cs.whu.edu.cn/news_show.aspx?id=1615">  Wuhan University  </a></Li>
-<li>06/08/2021 One paper has been accepted in  <a href="https://globecom2021.ieee-globecom.org/?_ga=2.131782856.653367360.1636077973-1461646020.1626138744"> IEEE GLOBECOM 2021 </a> </li>
-<Li>15/09/2021 One paper has been accepted in  <a href="https://ieee-msn.org/2021/"> IEEE MSN 2021</a></Li>
 <Li>30/10/2021 One paper has been accepted in  <a href="https://www.journals.elsevier.com/neurocomputing"> Neurocomputing 2021</a></Li>
+<Li>15/09/2021 One paper has been accepted in  <a href="https://ieee-msn.org/2021/"> IEEE MSN 2021</a></Li>
+<li>06/08/2021 One paper has been accepted in  <a href="https://globecom2021.ieee-globecom.org/?_ga=2.131782856.653367360.1636077973-1461646020.1626138744"> IEEE GLOBECOM 2021 </a> </li>
 </ul>
  
  
