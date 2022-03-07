@@ -173,6 +173,7 @@ vol. 17, no. 7, pp. 1501-1509, 2016.
 
 <A NAME="Reviewer"><h2>Reviewer</h2></A>
 <ul>
+<li>IEEE Vehicular Technology Magazine</li>
 <li>IEEE Access</li>
 <li>International Journal of Intelligent Information Systems</li>
 <li>IEEE Global Communications Conference</li>
