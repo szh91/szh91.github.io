@@ -67,8 +67,79 @@ I am a PHD student in School of Computer Science at <a href="https://www.whu.edu
  
 <A NAME="Publications"><h2>Publications</h2></A>
 <ul>
+
 <p style="text-indent: -1.6rem;margin-left: 0rem;">
-<span>[1] <b>Z. Sun</b>, J. Chen, C. Liang, W. R, and M. Mukherjee, 
+<span>[1] <b>Z. Sun</b>, G. Wei, W. Fu, M. Ye, K. Jiang, C. Liang, T. Zhu, T. He, and M. Mukherjee, 
+“Multiple Pedestrian Tracking Under Occlusion: A Survey and Outlook,” 
+<b><i>IEEE Transactions on Cricuits and System for Video </i></b>, 
+accepted, 2024. 
+(<b>SCI, Q1, IF=8.3</b>)
+[<a href= "[https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9142255](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10720185)">PDF</a>]
+</span>
+</p>
+
+
+
+<p style="text-indent: -1.6rem;margin-left: 0rem;">
+<span>[2] J. Zhou, W. Fu, W. Hu, <b>Z. Sun</b>, T. He, and Z. Zhang, 
+“Challenges and Advances in Analyzing TLS 1.3-Encrypted Traffic: A Comprehensive Survey,” 
+<b><i>Electronics</i></b>, 
+vol. 13, no. 20, pp. 4000, 2024. 
+(<b>SCI, Q2, IF=2.6</b>)
+[<a href= "[[https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9142255](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10720185)](https://www.mdpi.com/2079-9292/13/20/4000)">PDF</a>]
+</span>
+</p>
+
+
+ <p style="text-indent: -1.6rem;margin-left: 0rem;">
+ <span>[3] Y. Ye, J. Chen, <b>Z. Sun</b>, and M. Mukherjee, 
+“Data Compensation and feature fusion for sketch based person retrieval,” 
+<b><i>Journal of Visual Communication and Image Representation</i></b>, 
+vol. 104, no. 7, pp. 104287, 2024. 
+(<b>SCI, Q2, IF=2.6</b>)
+[<a href= "http://www.airitilibrary.cn/DownloadArticle/DownloadArticleFile?strDocID=16079264-201612-201701100006-201701100006-1501-1509&publishTypeID=P001&pubIntoPublishTypeID=P001">PDF</a>]
+</span>
+</p>
+
+ <p style="text-indent: -1.6rem;margin-left: 0rem;">
+ <span>[4] G. Wei, Y. Qin, G. Kou, and <b>Z. Sun</b>, 
+“Lightweight Certificate-Less Anonymous Authentication Key Negotiation Scheme in the 5G Internet of Vehicles,” 
+<b><i>Electronics</i></b>, 
+vol. 104, no. 7, pp. 104287, 2024. 
+(<b>SCI, Q2, IF=2.6</b>)
+[<a href= "[http://www.airitilibrary.cn/DownloadArticle/DownloadArticleFile?strDocID=16079264-201612-201701100006-201701100006-1501-1509&publishTypeID=P001&pubIntoPublishTypeID=P001](https://www.mdpi.com/2079-9292/13/16/3288)">PDF</a>]
+</span>
+</p>
+
+ <p style="text-indent: -1.6rem;margin-left: 0rem;">
+ <span>[5] Q. Meng, <b>Z. Sun</b>, Z. Lv, Q. Chen, W. Liu, and Y. Chen
+“Survey on Blockchain-Based Internet of Things Security Technologies,” 
+<b><i>2024 IEEE Scalable Computing and Communications (ScalCom)</i></b>, 
+accepted, 2024. 
+(<b>EI</b>)
+</span>
+</p>
+
+ <p style="text-indent: -1.6rem;margin-left: 0rem;">
+ <span>[6] Z. Zhou, <b>Z. Sun</b>, Z. Zhang, T. He, and W. Fu
+“A Survey of Machine Learning-Based TLS 1.3 Encrypted Traffic Analysis,” 
+<b><i>2024 IEEE Scalable Computing and Communications (ScalCom)</i></b>, 
+accepted, 2024. 
+(<b>EI</b>)
+</span>
+</p>
+
+ <p style="text-indent: -1.6rem;margin-left: 0rem;">
+ <span>[7] J. Wang, P. Chen, Y. Yang, <b>Z. Sun</b>, and Q. Ye
+“Research on Dynamic Honeynet Technology Based on Machine Learning,” 
+<b><i>2024 IEEE Scalable Computing and Communications (ScalCom)</i></b>, 
+accepted, 2024. 
+(<b>EI</b>)
+</span>
+</p>
+ 
+<p style="text-indent: -1.6rem;margin-left: 0rem;">
+<span>[8] <b>Z. Sun</b>, J. Chen, C. Liang, W. R, and M. Mukherjee, 
 “A survey of Multiple Pedestrian Tracking Based on Tracking-by-Detection Framework,” 
 <b><i>IEEE Transactions on Cricuits and System for Video </i></b>, 
  vol. 31, no. 5, pp. 1819-1833, 2021. 
@@ -79,7 +150,7 @@ I am a PHD student in School of Computer Science at <a href="https://www.whu.edu
  
 
 <p style="text-indent: -1.6rem;margin-left: 0rem;">
-<span>[2] <b>Z. Sun</b>, J. Chen, C. Liang, W. R, and M. Mukherjee, 
+<span>[9] <b>Z. Sun</b>, J. Chen, C. Liang, W. R, and M. Mukherjee, 
 “Online Multiple Object Tracking Based on Fusing Global and Partial Features,” 
 <b><i>Neurocomputing </i></b>, 
  vol. 470, no. 22, pp. 190-203, 2022. 
@@ -89,7 +160,7 @@ I am a PHD student in School of Computer Science at <a href="https://www.whu.edu
 </p>
  
  <p style="text-indent: -1.6rem;margin-left: 0rem;">
- <span>[3] L. Shu, Y. Chen, <b>Z. Sun</b>, F. Tong, and M. Mukherjee, 
+ <span>[10] L. Shu, Y. Chen, <b>Z. Sun</b>, F. Tong, and M. Mukherjee, 
 “Detecting the Dangerous Area of Toxic Gases with Wireless Sensor Networks,” 
 <b><i>IEEE Transactions on Emerging Topics in Computing</i></b>, 
 vol. 8, no. 1, pp. 137-147, 2020. 
@@ -99,7 +170,7 @@ vol. 8, no. 1, pp. 137-147, 2020.
 </p>
 
  <p style="text-indent: -1.6rem;margin-left: 0rem;">
- <span>[4] H. Wang, <b>Z. Sun</b>, S. Chen, 
+ <span>[11] H. Wang, <b>Z. Sun</b>, S. Chen, 
 “A Novel Real-Time Method for Moving Vehicle Detection,” 
 <b><i>Journal of Internet Technology</i></b>, 
 vol. 17, no. 7, pp. 1501-1509, 2016. 
@@ -110,7 +181,7 @@ vol. 17, no. 7, pp. 1501-1509, 2016.
 
  
  <p style="text-indent: -1.6rem;margin-left: 0rem;">
- <span>[5] <b>Z. Sun</b>, J. Chen, M. Mukherjee C. Liang, W. R, Y. Yu and D. Zhang , 
+ <span>[12] <b>Z. Sun</b>, J. Chen, M. Mukherjee C. Liang, W. R, Y. Yu and D. Zhang , 
 “Long-short Term Prediction for Occlusion Multiple Object Tracking,” 
 <b><i>IEEE Global Communications Conference</i></b>, 
 2021，pp. 109-114.
@@ -119,7 +190,7 @@ vol. 17, no. 7, pp. 1501-1509, 2016.
 </p>
  
   <p style="text-indent: -1.6rem;margin-left: 0rem;">
- <span>[6] <b>Z. Sun</b>, J. Chen, M. Mukherjee, C. Liang, W. R, Y. Yu and D. Zhang , 
+ <span>[13] <b>Z. Sun</b>, J. Chen, M. Mukherjee, C. Liang, W. R, Y. Yu and D. Zhang , 
 “An Improved Online Multiple Pedestrian Tracking Based on Head and Body Detection,” 
 <b><i>International Conference on Mobility, Sensing and Networking</i></b>, 
 2021，pp. 109-114.
@@ -128,7 +199,7 @@ vol. 17, no. 7, pp. 1501-1509, 2016.
 </p>
  
    <p style="text-indent: -1.6rem;margin-left: 0rem;">
- <span>[7] D. Zhang, Y. Zhang, <b>Z. Sun</b> and M. Mukherjee,
+ <span>[14] D. Zhang, Y. Zhang, <b>Z. Sun</b> and M. Mukherjee,
 “One-Class Support Vector Machine with Particle Swarm Optimization for Geo-Acoustic Anomaly Detection,” 
 <b><i>International Conference on Mobility, Sensing and Networking</i></b>, 
 2021，pp. 109-114.
@@ -137,7 +208,7 @@ vol. 17, no. 7, pp. 1501-1509, 2016.
 </p>
  
  <p style="text-indent: -1.6rem;margin-left: 0rem;">
- <span>[8] <b>Z. Sun</b>, H. Wang, Y. Chen, L. Shu, and M. Mukherjee, 
+ <span>[15] <b>Z. Sun</b>, H. Wang, Y. Chen, L. Shu, and M. Mukherjee, 
 “Understanding the Impact of Planarized Proximity Graphs on Toxic Gas Boundary Area Detection,” 
 <b><i>IEEE International Conference on Recent Advances in Signal Processing, Telecommunications & Computing</i></b>, 
 2017，pp. 109-114.
@@ -147,7 +218,7 @@ vol. 17, no. 7, pp. 1501-1509, 2016.
 </p>
 
  <p style="text-indent: -1.6rem;margin-left: 0rem;">
- <span>[9] X. R, L. S, M. Mhkherjee, Y. Wu, Y. Chen and <b>Z. Sun</b>, 
+ <span>[16] X. R, L. S, M. Mhkherjee, Y. Wu, Y. Chen and <b>Z. Sun</b>, 
 “Impact of Irregular Radio and Faulty Nodes on Localization in Industrial WSNs,” 
 <b><i>International Conference on Wireless Internet</i></b>, 
 2016， pp. 36-48.
