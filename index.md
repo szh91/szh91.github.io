@@ -56,7 +56,11 @@ I am a PHD student in School of Computer Science at <a href="https://www.whu.edu
 
 <A NAME="Recent Updates"><h2>Recent Updates</h2></A>
 <ul>
-<Li>30/08/2024 One paper has been accepted in <a href="[https://ieee-msn.org/2021/files/booklet.pdf](https://www.sciencedirect.com/journal/journal-of-visual-communication-and-image-representation)"> Journal of Visual Communication and Image Representation </a></Li> 
+   <Li>13/12/2024 One paper has been accepted in <a href="https://www.sciencedirect.com/journal/information-fusion"> Information Fusion</a></Li> 
+  <Li>09/10/2024 One paper has been accepted in <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76"> TCSVT</a></Li> 
+ <Li>09/10/2024 One paper has been accepted in <a href="https://www.mdpi.com/journal/electronics/about"> Electronics</a></Li> 
+ <Li>23/09/2024 One papers has been accepted in <a href="https://www.conf-inc.org/"> ICINC 2024</a></Li> 
+<Li>21/09/2024 Three papers have been accepted in <a href="https://www.ieee-smart-world.org/2024/scalcom/"> ScalCom-2024</a></Li> 
 <Li>30/08/2024 One paper has been accepted in <a href="[https://ieee-msn.org/2021/files/booklet.pdf](https://www.sciencedirect.com/journal/journal-of-visual-communication-and-image-representation)"> Journal of Visual Communication and Image Representation </a></Li>
 <Li>15/08/2024 One paper has been accepted in <a href="https://www.mdpi.com/journal/electronics/about"> Electronics</a></Li> 
 <Li>30/11/2021 Invited to chair the session MSN-9: Human Activity Recognition at  <a href="https://ieee-msn.org/2021/files/booklet.pdf"> 2021 IEEE MSN conference </a></Li>
@@ -157,7 +161,7 @@ accepted, 2024.
 “A survey of Multiple Pedestrian Tracking Based on Tracking-by-Detection Framework,” 
 <b><i>IEEE Transactions on Cricuits and System for Video </i></b>, 
  vol. 31, no. 5, pp. 1819-1833, 2021. 
-(<b>SCI, Q1, IF=4.685</b>)
+(<b>SCI, Q1, IF=8.4</b>)
 [<a href= "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9142255">PDF</a>]
 </span>
 </p>
