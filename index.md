@@ -69,6 +69,7 @@ I am a PHD student in School of Computer Science at <a href="https://www.whu.edu
 <Li>30/10/2021 One paper has been accepted in  <a href="https://www.journals.elsevier.com/neurocomputing"> Neurocomputing 2021</a></Li>
 <Li>15/09/2021 One paper has been accepted in  <a href="https://ieee-msn.org/2021/"> IEEE MSN 2021</a></Li>
 <li>06/08/2021 One paper has been accepted in  <a href="https://globecom2021.ieee-globecom.org/?_ga=2.131782856.653367360.1636077973-1461646020.1626138744"> IEEE GLOBECOM 2021 </a> </li>
+ <li>15/02/2020 One paper has been accepted in  <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76"> TCSVT</a></Li> 
 </ul>
  
  
