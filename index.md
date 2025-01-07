@@ -34,7 +34,7 @@
 </td></tr></table>
 
 <A NAME="Biography"><h2>Biography</h2></A>
-received the Ph.D degree in the school of Computer Science, Wuhan University <a href="https://www.whu.edu.cn/">, Wuhan, China, in 2022. 
+received the Ph.D degree in the school of Computer Science, <a href="https://www.whu.edu.cn/">Wuhan University </a>, Wuhan, China, in 2022. 
 
 <A NAME="Interest"><h2>Research Interest</h2></A>
 <ul>
