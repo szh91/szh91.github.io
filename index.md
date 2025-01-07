@@ -7,7 +7,7 @@
 <table class="imgtable"><tr><td>
 <a href="./"><img src="/szh91.jpg" alt="" height="320x" width="270x"  /></a></td>
 <td align="left"><p><a href="./"><font size="4">Zhihong Sun (孙志宏)</font></a>&nbsp;
-<i> Ph.D Candidate </i>
+<i>  Lecturer</i>
 <br /><br />
 <a href="http://cs.whu.edu.cn/aspx/enmain/">School of Computer Science</a>,
 <a href="https://www.whu.edu.cn/">Wuhan University</a><br />
