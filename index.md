@@ -5,7 +5,7 @@
 <div class="container"> 
 
 <table class="imgtable"><tr><td>
-<a href="./"><img src="/szh.jpg" alt="" height="320x" width="370x"  /></a></td>
+<a href="./"><img src="/szh91.jpg" alt="" height="320x" width="370x"  /></a></td>
 <td align="left"><p><a href="./"><font size="4">Zhihong Sun (孙志宏)</font></a>&nbsp;
 <i> Ph.D Candidate </i>
 <br /><br />
