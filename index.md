@@ -34,7 +34,7 @@
 </td></tr></table>
 
 <A NAME="Biography"><h2>Biography</h2></A>
-I am a PHD student in School of Computer Science at <a href="https://www.whu.edu.cn/">Wuhan University</a>. I am a member of <a href="http://multimedia.whu.edu.cn/">National Engineering Research Center for Multimedia Software (NERCMS)</a>, under the supervision of Dr. Jun Chen
+received the Ph.D degree in the school of Computer Science, Wuhan University <a href="https://www.whu.edu.cn/">, Wuhan, China, in 2022. 
 
 <A NAME="Interest"><h2>Research Interest</h2></A>
 <ul>
