@@ -45,7 +45,7 @@ received the Ph.D degree in the school of Computer Science, <a href="https://www
 
 <A NAME="Education"><h2>Education</h2></A>
 <ul>
-<li>2017.9-Now &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ph.D in <a href="https://www.whu.edu.cn/">Wuhan University</a></li>. 
+<li>2017.9-2022.6 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ph.D in <a href="https://www.whu.edu.cn/">Wuhan University</a></li>. 
  
 <Li>2015.5-2017.1 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; M.E. in <a href="http://www.gdupt.edu.cn/">Guangdong University of Petrochemical Technology</a></li>.
  
