@@ -56,6 +56,7 @@ received the Ph.D degree in the school of Computer Science, <a href="https://www
 
 <A NAME="Recent Updates"><h2>Recent Updates</h2></A>
 <ul>
+  <Li>28/4/2025 One paper has been accepted in <a href="https://www.sciencedirect.com/journal/alexandria-engineering-journal"> AEJ</a></Li> 
    <Li>13/12/2024 One paper has been accepted in <a href="https://www.sciencedirect.com/journal/information-fusion"> Information Fusion</a></Li> 
   <Li>09/10/2024 One paper has been accepted in <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76"> TCSVT</a></Li> 
  <Li>09/10/2024 One paper has been accepted in <a href="https://www.mdpi.com/journal/electronics/about"> Electronics</a></Li> 
@@ -72,16 +73,23 @@ received the Ph.D degree in the school of Computer Science, <a href="https://www
  <li>15/02/2020 One paper has been accepted in  <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76"> TCSVT</a></Li> 
 </ul>
  
- 
-<A NAME="Publications"><h2>Publications</h2></A>
-<ul>
+
+<p style="text-indent: -1.6rem;margin-left: 0rem;">
+<span>[1] Mingfu Xiong, Tanghao Gui, <b>Zhihong Sun</b>, Saeed Anwar, Aziz Alotaibi,  Khan Muhammad, “SEDNet: Synergistic Learning Network with Embedded Encoder and  Dense Atrous Convolution for Vehicle Re-identification,” 
+<b><i>Alexandria Engineering Journal</i></b>, 
+vol. 128, pp. 297-305, 2025. 
+(<b>SCI, Q1, IF=14.8</b>)
+[<a href= "[https://www.sciencedirect.com/science/article/abs/pii/S1566253524006638](https://pdf.sciencedirectassets.com/270704/1-s2.0-S1110016825X00132/1-s2.0-S1110016825006064/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEBwaCXVzLWVhc3QtMSJGMEQCIE2HeqW0gYT00Sp%2F3H4ergnP93eEKX3CoFsyhwBy19S%2FAiBFLq9aTAVzoXXJ96b45fZlRFdxZ%2B3Af%2BnU80ru5oSAWyqzBQhEEAUaDDA1OTAwMzU0Njg2NSIMI49OEqTIEyAmNEJSKpAFiS7Syeib3M1tnc6PORYJL9yX8OOfJdBGpYp%2FLU%2BwMhujK%2BX5fAa3gkT0AqeBjy3iyGBgg6oamC3wWVpuGaAyeEvqc2bGTYHb91q1ObrXy2xej3NhOOGHcD%2FDs2XLNMoulDApCtTDoufH%2BOp9ccbjS0DD5BxQADDFjfUF%2BVvhYpjuC7lOH%2BXwMh4PdKdejiMwigU8owcAUYA4QsdruPXKdk32e8ATf0nmcjkjcmwsbu%2Fmct0pNRvfCZOK23SF83ij2KVUWVVr%2FRt0cqFIzYQYv%2Bw1TYo%2FXpOZM8XfimkVEEw7UH2k3Pub%2BemJ1pHIVLRAlQylXP9422iYwvlOQR0USgeB2eQjWDjLvnHcjPu4ciVXZiQW7TCCL%2B72bgLJkz8C4W7cknpL2LWM%2Bcytt318qcowab%2FFrrgPXVqwATxYdj6VnPI9EZpMYJchrKHpqc4DQw2d09AfIiz1RxwYx47xV53xblMaMaD7zxwiW%2Bm5QTi0dF3xKrCps9M%2BGyZF6Yu89flHm6z2cXe3TRj%2Fx14PsUa5WjN7UTmXlJ%2Fz3uNS%2BBK5ZYLCt3wFstusUyn5jPWg3V9EiVdYH%2FfkwENkqBTfC%2FTMUT5oKlUXx%2Bla5GG8Il5BGDN7eZCn43ouop7N1mc7caN%2BekWZbB7%2BlT6Cn1%2FgNM4hBMvXq96JjNcf03LHtVt%2FuL1GR1Hl5JMJ59xlDZAXA%2BUcwziBeBXB%2BDp0X1Oci3ENTSnGS78ds2aWl5od969oBhR9lE%2FGKbzwdnNEQWTK5g4iNgLRsYMIEz5K5ufM101YeaLPZjJNzp5qnVDZUMQkWMaYdMrQGnQq4VEF2dVGCaaOMxAdlzdR%2F30pwAegN0Cc5BBman%2BihVk5vU%2F4UL8wq8yNxAY6sgGuBOf5FeZqbJX4YbQFEghx1eJJCkYN5i%2ByeIGAdgbYLYXZMY7iQD9bt2T5ieQuFKWFbIxeainir%2BXIbXxrveeTEumZEQbSkZnCH90%2FlmVIMnzidxo9%2B2HytQ2YQReH0geRfP8FGEDMNWPFHpgct3%2FRSm9d%2FLF1GJO0T0qopLoKJQvhyUQg2Q2R89Cf2M6uCtqenhqOo2oVFLEMlEqRhBR0SdeU82gfb%2F5vjmCYZOgqXecS&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20250725T115507Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYWYA3V6PO%2F20250725%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=362acb6c1adba04a59973069b2a0534c918212214c71e63ec03009de316ece20&hash=6733bc6b65b2dfc5c86606eb25bad5decd8715d2a09b6c56e4003871e6443c34&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S1110016825006064&tid=spdf-adffd7b8-58dd-459f-afca-479bb1e85709&sid=1d1d8b4a894a034eb23b69e1ae3b311c6c69gxrqb&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&rh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=050f5d56510254545700&rr=964b776c9f0a6ae9&cc=cn)">PDF</a>]
+</span>
+</p>
+
 
 <p style="text-indent: -1.6rem;margin-left: 0rem;">
 <span>[1] Mingfu Xiong, Xinxin Yang, <b>Zhihong Sun</b>, Xinrong Hu, Ahmed Ibrahim Alzahrani, Khan Muhammad, “RFFR-Net: Robust feature fusion and reconstruction network for clothing-change person re-identification,” 
 <b><i>Information Fusion</i></b>, 
-accepted, 2025. 
+vol. 118, pp. 10285, 2025. 
 (<b>SCI, Q1, IF=14.8</b>)
-[<a href= "https://www.sciencedirect.com/science/article/abs/pii/S1566253524006638">PDF</a>]
+[<a href= "[https://www.sciencedirect.com/science/article/abs/pii/S1566253524006638](https://pdf.sciencedirectassets.com/272144/1-s2.0-S1566253525X00026/1-s2.0-S1566253524006638/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEBsaCXVzLWVhc3QtMSJHMEUCIQCft0I6A%2FsGvLImJc6WHpgU0ke1BWpiovG8v6uLGPyG3gIgJTuFnmxYDTJ5w5NqWF1CQQznITOyIonGLHLWALBdpS8qsgUIRBAFGgwwNTkwMDM1NDY4NjUiDK3mE4KTgU0efnsmsyqPBYMg4wPd%2BR0zzzVn1DsJ4mJEKcDPVWAAJfdBnZ73Y5gzVZEZfme3x2H%2FuSpxsKAn%2Fa70o3uT9V%2FPDLxdjn0CD7FHLT3p22vFNvYiXLS%2B4X1zarwehoSC1iiH5uBcTGuj3Ois4mVCyNNUuocRJvwEkJeF8bt7QOkFkf%2BanZuYfLHWmtd1nk6utDI1WoW5cu%2FD1wz5MX9uCO%2By5WwfIZRAut1HvuG1UvJgKxJ3G96%2BGk42EeaiZmTYcgL8mLDsCwUE0bZOH4vn9wtFk5nDh3PzPUsNffyKD%2BogIcvrfnvuCXpMrLp1aYWWL%2By3jnHSOMY3UAXv2f5EvmHG81upOSY7nXCQ0GE6fJ5lqx%2FGLdlIUnYgutiV0b7Q1zn5mdnz8tz%2Fpx4LgpYBAdtke5%2F1wm6as2msy1TGkktRfY908CLF6xTYUs9sYt%2Brz2YUuXKLUrUWt3%2BaduqgOEnCgfnrxerHKmln%2BxdeM7mXRFIaR8Pmxs68biBSuchdfJr6ZUoPnQyTv2s%2B8%2FgUZeuA5haAwhakK%2B5h4taJnDvJ434IxCjy9MTJuP4EPv8Z5Mx790SS%2Bb5i1%2BLyzLMFgNDBZWm9J6NaBEI8EHef0Ue97yZCPM9T%2B9AaWGh8fJHRzR5meNZ6XBcGZrDGO0aUFouRDx%2FKHGJSRLVd%2FszRqE%2Fap0ibVmqNjIa01ayGfq8gef3pSO48dDdUlxWxkQF1awrNTBNPv3D8GlXjYKF7VlCwZuJEJj1x%2FfyghJtPYbPKT5DP6x43zhiG%2FFqUfe9Is8kMZ6MDAjY%2Bm7iw21ZWeLbvMsr3truvcTYR7E6lviJtpDYbnIlIp0dQA1%2BOwGLMyqg4z2kjufILWShkQaLl3%2FUYB%2F%2Fkiss15KgwwLmNxAY6sQF3YogBOSxTpGCGqRRovLg1XGtTQ%2Fu7R7SL0S7DOCdSMohO7EBS4FZgR0w88kQeU2EMxkYzjj8PqXzKP64aJoYEoRwjAxAil0JUwjC%2FzBKLiDu8D2Yn9hkmxSqAG5GnWT1mpICcXydBIbulsL%2BcmSEImpotpak2QYmrPy72O4QiPJ4%2F5C9qc%2FVb%2BsMJ2f1WU7cJdHUZ6mC%2FCFTerKkbnDpQUffyzJ6ZTp56qFW6YBviL44%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20250725T115625Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTY7U5RWR2M%2F20250725%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=e6d45df774fa7ab183eda4a4cfeac237ed5307ef35a16602816130e840e67297&hash=1080f30290209c17ddae1e42bf5d5d8698d9f4a59ff542873400ad4d9e9a83d9&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S1566253524006638&tid=spdf-f1f4c222-11fb-403d-8f69-336570fd2695&sid=a49a9c92413a28426808847329a07aac8d0fgxrqa&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&rh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=050f5d565102545a5452&rr=964b79511fee6ae9&cc=cn)">PDF</a>]
 </span>
 </p>
 
@@ -91,8 +99,8 @@ accepted, 2025.
 <span>[2] <b>Z. Sun</b>, G. Wei, W. Fu, M. Ye, K. Jiang, C. Liang, T. Zhu, T. He, and M. Mukherjee, 
 “Multiple Pedestrian Tracking Under Occlusion: A Survey and Outlook,” 
 <b><i>IEEE Transactions on Cricuits and System for Video </i></b>, 
-accepted, 2024. 
-(<b>SCI, Q1, IF=8.3</b>)
+vol. 35, no. 2, pp。1009 - 1027，2025. 
+(<b>SCI, Q1, IF=11.1</b>)
 [<a href= "[https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9142255](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10720185)">PDF</a>]
 </span>
 </p>
